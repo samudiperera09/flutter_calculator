@@ -1,0 +1,42 @@
+# Flutter specific
+**/android/.gradle
+**/android/app/build
+**/android/build
+**/ios/Pods
+**/ios/.symlinks
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/App.framework
+**/ios/build
+/.dart_tool/
+**/linux/flutter/ephemeral
+**/windows/flutter/ephemeral
+**/macos/Flutter/ephemeral
+**/macos/build
+**/.dart_tool
+**/.packages
+**/pubspec.lock
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.idea
+**/.vscode
+**/build/
+**/test/**.log
+
+# Mac system files
+.DS_Store
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+pubspec.lock
+
+# Generated files
+*.swp
+*.tmp
